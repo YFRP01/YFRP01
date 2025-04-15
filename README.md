@@ -1,6 +1,6 @@
 # Hey there, I'm Pavel Youmsi!
 
-**Computer Science and Technology** Engineering undergraduate student, Cameroon (Graduating 2026). Passionate about software innovation, sustainability, and impactful tech solutions.
+**Computer Science and Technology** Engineering undergraduate student. Passionate about software innovation, sustainability, and impactful tech solutions.
 
 Creator of the **Green Congo Basin** (GCB) Project — an initiative dedicated to raising environmental awareness, reducing carbon footprints, and promoting green technology through digital platforms.
 
