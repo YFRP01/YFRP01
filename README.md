@@ -1,6 +1,8 @@
 # Hey there, I'm Pavel Youmsi!
 
-**Computer Science and Technology** Engineering undergraduate student. Passionate about software innovation, sustainability, and impactful tech solutions.
+Aspiring computer science and engineering professional with a passion for impactful software solutions.
+
+Passionate about software innovation, sustainability, and impactful tech solutions.
 
 Creator of the **Green Congo Basin** (GCB) Project — an initiative dedicated to raising environmental awareness, reducing carbon footprints, and promoting green technology through digital platforms.
 
@@ -21,6 +23,7 @@ Currently building solutions at the intersection of climate and code.
 - `contact-manager` – A file-based system to store and update personal contacts.
 - `product-of-n-numbers` – A basic C++ algorithm for multiplying user-entered values.
 - `array32-filter-maxmin` – A smart array processor that filters out large values and reports the range.
+- `todo-list` - A simple and interactive To-Do List that helps users manage daily tasks efficiently. Features task addition, deletion, and status tracking. Built for learning and productivity.
 
 
 > “I believe small projects lead to big possibilities — and I’m coding my way there.”
