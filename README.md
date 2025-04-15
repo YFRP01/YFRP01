@@ -6,7 +6,7 @@ Passionate about software innovation, sustainability, and impactful tech solutio
 
 Creator of the **Green Congo Basin** (GCB) Project — an initiative dedicated to raising environmental awareness, reducing carbon footprints, and promoting green technology through digital platforms.
 
-Currently building solutions at the intersection of climate and code.
+Currently building solutions at the intersection of climate, education , finance and code.
 
 ### What I'm About:
 - **Scholarship Applicant & Driven Learner**: Eager to grow through global opportunities and challenges.
